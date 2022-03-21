@@ -1,1 +1,1 @@
-https://sussygamedeveloper.github.io/feed.html
+https://sussygamedeveloper.github.io/fnaf1/feed.html
